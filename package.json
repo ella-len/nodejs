@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/ella-len/nodejs/issues"
   },
-  "homepage": "https://github.com/ella-len/nodejs#readme"
+  "homepage": "https://github.com/ella-len/nodejs#readme",
+  "dependencies": {
+    "config.ini": "0.0.52"
+  }
 }
